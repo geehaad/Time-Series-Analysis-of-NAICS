@@ -18,3 +18,22 @@ In NAICS 2017 – Statistics Canada.pdf (see page 22), a 2-digit NAICS industry 
 Similarly, a 3-digit NAICS industry (e.g., 236 - Construction of buildings), is composed of 4-digit NAICS industries (2361 - Residential building construction and 2362 -Non-residential building construction).
 
 ## The data provided contains:
+<b>Raw data:</b><br>
+15 CSV files beginning with RTRA.<br>
+These files contain employment data by industry at different levels of aggregation; 2-digit NAICS, 3-digit NAICS, and 4-digit
+NAICS. <br>
+<ul>
+Columns mean as follows:
+    <li>
+ SYEAR: Survey Year
+        </li>
+    <li>
+ SMTH: Survey Month
+        </li>
+    <li>
+ NAICS: Industry name and associated NAICS code in the bracket
+        </li>
+    <li>
+ _EMPLOYMENT_: Employment
+        </li>
+</ul>
