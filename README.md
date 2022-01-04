@@ -1,6 +1,3 @@
-# Time-Series-Analysis-of-NAICS
-Understand how the NAICS works as a hierarchical structure for defining industries at different levels of aggregation. 
-
 # NAICS
 The North American Industry Classification System or NAICS is a classification of business establishments by type of economic activity. It is used by government and business in Canada, Mexico, and the United States of America.
 
