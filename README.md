@@ -32,7 +32,7 @@ Columns mean as follows:
 </ul>
 <b>b- LMO Detailed Industries by NAICS:</b><br> 
 An excel file for mapping the RTRA data to the desired data. <br>
-The first column of this file has a list of 59 industries that are frequently used.
+The first column of this file has a list of 59 industries that are frequently used.<br>
 The second column has their NAICS definitions. <br>
 Using these NAICS definitions and RTRA data, you would create a monthly employment data series from 1997 to 2018 for these 59
 industries.<br>
