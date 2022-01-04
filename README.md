@@ -1,4 +1,6 @@
 # NAICS
+<img src="img.svg.png">
+
 The North American Industry Classification System or NAICS is a classification of business establishments by type of economic activity. It is used by government and business in Canada, Mexico, and the United States of America.
 
 It has largely replaced the older Standard Industrial Classification (SIC) system, except in some government agencies, such as the U.S. Securities and Exchange Commission (SEC).
