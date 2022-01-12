@@ -18,16 +18,16 @@ NAICS. <br>
 <ul>
 Columns mean as follows:
     <li>
- SYEAR: Survey Year
+ SYEAR: Survey Year.
         </li>
     <li>
- SMTH: Survey Month
+ SMTH: Survey Month.
         </li>
     <li>
- NAICS: Industry name and associated NAICS code in the bracket
+ NAICS: Industry name and associated NAICS code in the bracket.
         </li>
     <li>
- _EMPLOYMENT_: Employment
+ _EMPLOYMENT_: Employment.
         </li>
 </ul>
 <b>b- LMO Detailed Industries by NAICS:</b><br> 
